@@ -10,6 +10,8 @@ Dataset created from the KITTI Vision Benchmark Suite.
 
 ![Frame 65](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065.png)
 
+![Frame 65 projected](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_projected.png)
+
 Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
 
 ![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
