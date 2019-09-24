@@ -4,6 +4,10 @@
 
 ![Example of a point-cloud from the HDL-64E velodyne 3D LIDAR (extracted from KITTI dataset). In the scene, it is possible to see a pedestrian.](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure3.gif)
 
+2D RGB image:
+
+![Frame 65](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065.png)
+
 Depth-range map: average, bilateral filter, maximum, minimum using sliding-window (a mask) 13x13 in size fot upsample of the point clouds. 
 
 ![Average](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
