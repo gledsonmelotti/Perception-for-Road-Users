@@ -19,6 +19,7 @@ Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-
 
 
 
+
 ![This picture shows a LIDAR point-cloud (the 1st row) as projected to the image plane (1st row), and the correspondent depth (DM) and reflectance (RM) maps; 2nd and 3rd rows respectively](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure2.gif)
 
 # CNN-LIDAR pedestrian classification: combining range and reflectance data
