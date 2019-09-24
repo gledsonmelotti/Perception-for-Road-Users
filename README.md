@@ -10,15 +10,19 @@
 
 Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the 3D point clouds projected in the 2D image-plan. 
 
-![Average](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
+![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
 ![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_BF.png)
 ![IDW](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_IDW.png)
 ![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MAX.png)
 ![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MIN.png)
 
+Reflectance map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the 3D point clouds projected in the 2D image-plan. 
 
-
-
+![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_AVG.png)
+![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_BF.png)
+![IDW](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_IDW.png)
+![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_MAX.png)
+![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_MIN.png)
 
 ![This picture shows a LIDAR point-cloud (the 1st row) as projected to the image plane (1st row), and the correspondent depth (DM) and reflectance (RM) maps; 2nd and 3rd rows respectively](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure2.gif)
 
