@@ -8,7 +8,7 @@
 
 ![Frame 65](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065.png)
 
-Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the 3D point clouds projected in the 2D image-plan. 
+Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
 
 ![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
 ![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_BF.png)
@@ -16,7 +16,7 @@ Depth-range map: average, bilateral filter, IDW, maximum, minimum using sliding-
 ![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MAX.png)
 ![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MIN.png)
 
-Reflectance map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the 3D point clouds projected in the 2D image-plan. 
+Reflectance map: average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
 
 ![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_AVG.png)
 ![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_BF.png)
