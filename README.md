@@ -31,8 +31,9 @@ Reflectance map: average, bilateral filter, IDW, maximum, minimum using sliding-
 ![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/ReflectanceMaP/000065_MIN.png)
 
 
-Dataset with RGB image and Depth/Range Map using bilateral filter (13x13 in size): car, pedestrian, cyclist and person sitting
+Dataset with RGB image and Depth/Range Map using bilateral filter (13x13 in size): car, pedestrian, cyclist and person sitting.
 
+![Dataset](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/dataset.png)
 
 # CNN-LIDAR pedestrian classification: combining range and reflectance data
 
