@@ -6,12 +6,12 @@ Dataset created from the KITTI Vision Benchmark Suite.
 
 ![Example of a point-cloud from the HDL-64E velodyne 3D LIDAR (extracted from KITTI dataset). In the scene, it is possible to see a pedestrian.](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure3.gif)
 
-2D RGB image:
+2D RGB image (Frame 65-KITTI Vision Benchmark Suite):
 
 ![Frame 65](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065.png)
 
 
-Projected 3D Point clouds in the 2D image-plane:
+Projected 3D Point clouds in the 2D image-plane (Frame 65-KITTI Vision Benchmark Suite):
 
 ![Frame 65 projected](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_projected.png)
 
