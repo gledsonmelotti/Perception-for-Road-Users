@@ -2,7 +2,7 @@
 
 Dataset created from the KITTI Vision Benchmark Suite.
 
-3D Point Clouds (Frame 65-KITTI Vision Benchmark Suite);
+3D Point Clouds (Frame 65-KITTI Vision Benchmark Suite):
 ![Point Clouds](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_pointclouds.png)
 
 2D RGB image (Frame 65-KITTI Vision Benchmark Suite):
