@@ -4,6 +4,15 @@
 
 ![Example of a point-cloud from the HDL-64E velodyne 3D LIDAR (extracted from KITTI dataset). In the scene, it is possible to see a pedestrian.](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure3.gif)
 
+Depth-range map: average, bilateral filter, maximum, minimum
+
+![Average](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_AVG.png)
+![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_BF.png)
+![IDW](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_IDW.png)
+![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_MAX.png)
+![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_MIN.png)
+
+
 ![This picture shows a LIDAR point-cloud (the 1st row) as projected to the image plane (1st row), and the correspondent depth (DM) and reflectance (RM) maps; 2nd and 3rd rows respectively](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/Figure2.gif)
 
 # CNN-LIDAR pedestrian classification: combining range and reflectance data
