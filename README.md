@@ -6,11 +6,11 @@
 
 Depth-range map: average, bilateral filter, maximum, minimum using sliding-window (a mask) 13x13 in size fot upsample of the point clouds. 
 
-![Average](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_AVG.png)
-![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_BF.png)
-![IDW](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_IDW.png)
-![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_MAX.png)
-![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_MIN.png)
+![Average](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
+![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_BF.png)
+![IDW](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_IDW.png)
+![MAX](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MAX.png)
+![MIN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_MIN.png)
 
 
 
