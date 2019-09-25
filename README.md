@@ -32,7 +32,7 @@ In this way, the growing field related to the advanced perception for intelligen
 
 [13] Bertozzi, M., Broggi, A., and Fascioli, A. (2000). Vision-based intelligent vehicles: State of the art and perspectives. Robotics and Autonomous Systems, 32(1):1 – 16.
 
-[13] Franke, U., Gavrila, D., Gorzig, S., Lindner, F., Puetzold, F., and Wohler, C. (1998). Autonomous driving goes downtown. IEEE Intelligent Systems and their Applications, 13(6):40–48.
+[14] Franke, U., Gavrila, D., Gorzig, S., Lindner, F., Puetzold, F., and Wohler, C. (1998). Autonomous driving goes downtown. IEEE Intelligent Systems and their Applications, 13(6):40–48.
 
 # AlexNet-Convolutional Neural Networks (CNN)
 
