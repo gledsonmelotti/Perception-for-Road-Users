@@ -4,6 +4,8 @@ Despite the numerous traffic signals, crosswalks and pedestrian safety signage, 
 
 In this way, the growing field related to the advanced perception for intelligent/autonomous vehicles (IV/AV), aggregating knowledge from several areas, such as electrical engineering, mechatronics, computing, statistics, and ML/AI, has been achieved very promising and encouraging results for vision-based perception for intelligent vehicles [10, 11, 12, 13, 14]. In perception systems, objects are categories or classes to be detected or classified, such as pedestrians, cars, vans, and cyclists, which may be contained in the field of view of sensors (i.e. cameras, radars, LIDARs).
 
+# References
+
 [1] Drive.ai (2018). The self-driving car. Homepage of the drive.ai.
 [2] Fernandes, L. C., Souza, J. R., Pessin, G., Shinzato, P. Y., Sales, D., Mendes, C., Prado, M., Klaser, R., Magalhães, A. C., Hata, A., Pigatto, D., Branco, K. C., Grassi, V., Osorio, F. S., and Wolf, D. F. (2014). CaRINA intelligent robotic car: Architectural design and applications. Journal of Systems Architecture, 60(4):372 –392.
 [3] Guizzo, E. (2011). How Google’s self-driving car works. New York, NY. IEEE.
