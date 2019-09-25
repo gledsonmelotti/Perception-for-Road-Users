@@ -1,4 +1,4 @@
-# Perception-sytems
+# Perception-Sytems
 
 # Convolutional Neural Networks (CNN)
 
