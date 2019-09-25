@@ -1,6 +1,10 @@
-# Perception-Sytems
+# Deep Learning Based LIDAR Perception for Road Users Recognition
 
-# Convolutional Neural Networks (CNN)
+Despite the numerous traffic signals, crosswalks and pedestrian safety signage, the number of accidents on highways and urban areas, between cars and pedestrians, is sadly very high. Thus, the development of advanced perception systems1 for intelligent vehicles (IV) and autonomous vehicles (AV) [14, 20, 26, 69, 55] is a promising step forward to drastically reduce the number of road accidents, knowing that the perception is the process in which an intelligent vehicle interprets the sensor data, in order to understand the world around it and thus, allowing decision-making in an optimized and secure way. However, sensory perception is not a trivial task, especially when it comes to pedestrian detection, because a person’s appearance depends on lighting, clothing, body articulation and may suffers of occlusion. Recently, because of the vulnerability, safety, social and economic impact, pedestrian perception systems have been the focus of many studies involving intelligent vehicles [45, 2, 16, 50].
+
+In this way, the growing field related to the advanced perception for intelligent/autonomous vehicles (IV/AV), aggregating knowledge from several areas, such as electrical engineering, mechatronics, computing, statistics, and ML/AI, has been achieved very promising and encouraging results for vision-based perception for intelligent vehicles [31, 44, 8, 9, 21]. In perception systems, objects are categories or classes to be detected or classified, such as pedestrians, cars, vans, and cyclists, which may be contained in the field of view of sensors (i.e. cameras, radars, LIDARs).
+
+# AlexNet-Convolutional Neural Networks (CNN)
 
 ![CNN](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/AlexNet.PNG)
 
