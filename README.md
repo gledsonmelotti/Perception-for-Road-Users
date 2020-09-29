@@ -52,7 +52,9 @@ Projected 3D Point clouds in the 2D image-plane (Frame 65-KITTI Vision Benchmark
 
 ![Frame 65 projected](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/000065_projected.png)
 
-Depth-range map (Frame 65): average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
+![CropPoint]()
+
+Depth-Range map/Range-View map (Frame 65): average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
 
 ![AVG](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_AVG.png)
 ![BF](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/DepthMap/000065_BF.png)
