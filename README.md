@@ -53,7 +53,7 @@ Projected 3D Point clouds in the 2D image-plane (Frame 65-KITTI Vision Benchmark
 
 Crop the 3D Point clouds regarding the projection on the 2D image-plane (Frame 65-KITTI Vision Benchmark Suite):
 
-![CropPointCloud Frame 114](https://github.com/gledsonmelotti/Self-Driving-Vehicles/tree/master/Images/frame_114_juntos.png)
+![Frame 114](https://github.com/gledsonmelotti/Self-Driving-Vehicles/tree/master/Images/frame_114_juntos.png)
 
 Depth-Range map/Range-View map (Frame 65): average, bilateral filter, IDW, maximum, minimum using sliding-window (a mask) 13x13 in size for upsample the projected 3D point clouds in the 2D image-plan. 
 
