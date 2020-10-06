@@ -72,6 +72,10 @@ Dataset with RGB image and Depth/Range Map using bilateral filter (13x13 in size
 
 ![Dataset](https://github.com/gledsonmelotti/Perception-sytems/blob/master/Images/dataset.png)
 
+Cropping the 3D point clouds.
+
+![Crop_Point_Clouds](https://github.com/gledsonmelotti/Self-Driving-Vehicles/blob/master/Images/frame_114_juntos.png)
+
 # CNN-LIDAR pedestrian classification: combining range and reflectance data
 
 Link: https://ieeexplore.ieee.org/document/8519497
