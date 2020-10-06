@@ -76,6 +76,10 @@ Cropping the 3D point clouds.
 
 ![Crop_Point_Clouds](https://github.com/gledsonmelotti/Self-Driving-Vehicles/blob/master/Images/frame_114_juntos.png)
 
+3D point clouds:
+
+![3D_Point_Cloud](https://github.com/gledsonmelotti/Self-Driving-Vehicles/blob/master/Images/Cropping_Examples.png)
+
 # CNN-LIDAR pedestrian classification: combining range and reflectance data
 
 Link: https://ieeexplore.ieee.org/document/8519497
