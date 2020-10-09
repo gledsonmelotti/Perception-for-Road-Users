@@ -1,8 +1,0 @@
-# RGB Images
-Images with 3 channels
-
-# Depth Maps Images-Bilateral filter: 13x13 in size
-Imagesn with 1 channel
-
-# RGB_DM
-Imagens with 4 channels (concatenate RGB with DM)
